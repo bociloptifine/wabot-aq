@@ -44,8 +44,8 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
+│ https://youtu.be/dQw4w9WgXcQ
+│ 
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
