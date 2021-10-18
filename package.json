@@ -1,7 +1,7 @@
 {
-  "name": "wabot-aq",
+  "name": "Fathan",
   "version": "2.5.1",
-  "description": "Customizable WhatsApp Bot",
+  "description": "Heroku WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
   "directories": {
